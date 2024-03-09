@@ -1,3 +1,5 @@
+# DEPRECATED
+
 A simple ansible role that installs a specific version of kubernetes
 
 This package closely follows the guide at: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
